@@ -14,5 +14,7 @@ Even more so when you can customize each of these because customization is alway
 
 ## *Video demo:*
 
+https://www.instagram.com/p/CY6rzUohYTz/
+
 https://user-images.githubusercontent.com/64377961/150055347-69eaa8b2-233f-47be-8f84-d23a4fa34d16.mp4
 
