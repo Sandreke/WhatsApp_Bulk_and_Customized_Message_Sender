@@ -6,10 +6,15 @@ Even more so when you can customize each of these because customization is alway
 
 ## Advantages:
 ➡ You save time that you can dedicate to higher value actions such as closing sales and customer service
+
 ➡ You avoid repetitive tasks of copying and pasting the same message to all your clients
+
 ➡ You avoid making mistakes and losing information in the messages sent
+
 ➡ No customer is left out because they are in your database
+
 ➡ No limits on the number of people
+
 ➡ Unlike the broadcast list, you can customize each message
 
 ## *Video demo:*
